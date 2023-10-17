@@ -1,4 +1,4 @@
-import 'package:dicoding_ta/pages/home_screen.dart';
+import 'package:bmi_calculator/pages/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
